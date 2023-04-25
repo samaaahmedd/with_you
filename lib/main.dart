@@ -15,7 +15,7 @@ class WithYou extends StatelessWidget {
     return MaterialApp(
     debugShowCheckedModeBanner: false,
 
-    home: SplashScreen(),
+    home: WelcomePage(),
 
     );
   }

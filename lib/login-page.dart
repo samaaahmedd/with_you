@@ -17,7 +17,7 @@ class LoginPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Color(0xff58006D),
+      backgroundColor: Color(0xff004C6DFF),
       body: SingleChildScrollView(
         child: Column(
           children: [
